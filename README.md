@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ## 📋 <a name="table">Table of Contents</a>
 
+=======
+>>>>>>> 21f6258 (Updated README - Removed tutorial & introduction)
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
@@ -7,7 +10,11 @@
 5. 🕸️ [Code Snippets to Copy](#snippets)
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
+<<<<<<< HEAD
 8. 
+=======
+
+>>>>>>> 21f6258 (Updated README - Removed tutorial & introduction)
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
